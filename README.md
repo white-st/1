@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Thief </h1>
-<p align="center">一款真正的创新摸鱼神器</p>
+<p align="center">一款真正的创新摸鱼神器 </p>
 
 <p  align="center">
 <a href="https://thief.im/" target="_bank">官网</a>
