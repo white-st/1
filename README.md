@@ -78,6 +78,6 @@
                 <img src="https://avatars1.githubusercontent.com/u/53846155?s=460&v=4" width="100px;" height="100px;" alt="" />
                 <div><sub><b>SanJin</b></sub>
                     <div>
-            </a></td>
+            </a>  </td>
     </tr>
 </table>
