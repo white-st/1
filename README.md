@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <a href="https://thief.im/" target="_blank">
     <img width="200" src="images/thief.png">
   </a> 
